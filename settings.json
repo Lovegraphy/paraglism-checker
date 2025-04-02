@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+
+    "java.project.referencedLibraries": [
+        "lib/pdfbox-app-2.0.33.jar"
+    ]
+}
